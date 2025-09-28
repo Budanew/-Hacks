@@ -1,2 +1,3 @@
-# Hacks
-&amp;hacks 2025
+# &Hacks
+William & Mary Hackathon 2025
+
