@@ -1,2 +1,2 @@
-# -Hacks
-float goats
+# &Hacks
+William & Mary Hackathon 2025
